@@ -2,7 +2,7 @@
 
 Main python script for trajectory optimization is in file [optimize_trajectory.py](https://github.com/scholeer/pso_ur3/optimize_trajectory.py)
 
-Link to the [paper](https://www.mdpi.com/2076-3417/10/22/8241)
+Link to the paper [Reduction in Robotic Arm Energy Consumption by Particle Swarm Optimization ](https://www.mdpi.com/2076-3417/10/22/8241)
 
 ## Dependencies
 
